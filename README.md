@@ -7,4 +7,11 @@
   Design the Login Page Using NetBeans IDE (Design Window)
 # Task 4: Homepage
   Connect to MYSQL Database and Design the Homepage in NetBeans IDE
+# Task 5
+  Add and Delete Products/Buyers
+# Task 6
+  Update and Search Products/Buyers 
+
+
+
   
